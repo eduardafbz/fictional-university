@@ -15,7 +15,7 @@ Projeto fictício de um site institucional de uma universidade fictícia, desenv
 ```bash
 git clone https://github.com/eduardafbz/fictional-university.git
 ```
-2. Abra o arquivo index.html em qualquer navegador.
+2. Abra o arquivo /fictional-university/index.html em qualquer navegador.
 
 ### Objetivo: 
 Este projeto tem como objetivo praticar a construção de páginas web usando HTML. Ele simula um site institucional de uma universidade fictícia, com informações sobre a universidade, como contato e infos. adicionais.
